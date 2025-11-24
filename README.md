@@ -17,12 +17,4 @@
 
 - Web3  
 
----
-
-## 📊 GitHub Stats
-
-![c4nl’s GitHub stats](https://github-readme-stats-3y2ofwrs2-hmm-15611d24.vercel.app/api?username=c4nl&show_icons=true&theme=radical)
-
----
-
 Thanks for stopping by. 🚧
