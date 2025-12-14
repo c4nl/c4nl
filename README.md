@@ -1,6 +1,6 @@
 # Hi 👋, I'm Search
 
-### Fullstack Developer
+### Hello, I’m Search — a 19-year-old full-stack developer from Norway and Engineering Manager at Lorix Softworks. I began developing websites and Discord bots at 14, and by 15–16 I was focused on improving my skills with the goal of turning my passion into income. Now, at 18, I successfully earn by building websites for clients, offering affordable rates starting at $50 depending on the project.
 
 - 🔭 I'm currently working on
 - **ImageHost Searcher.no**
